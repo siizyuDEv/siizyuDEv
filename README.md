@@ -1,0 +1,5 @@
+- 👋 I’m @siizyuDEv
+- 👀 I’m interested in JSON UI
+- 😎 I’m currently learning Java, JS, HTML
+- 💞️ I’m looking to collaborate on Minecraft Modding.
+- 📫 To reach me, contact me on Discord.
